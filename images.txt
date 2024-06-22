@@ -1,3 +1,4 @@
 oldiy/frpc
 iyuucn/iyuuplus-dev
 xiaoyaliu/alist
+ddsderek/wxchat
