@@ -2,3 +2,4 @@ oldiy/frpc
 iyuucn/iyuuplus-dev
 xiaoyaliu/alist
 ddsderek/wxchat
+portainer/portainer-ce
